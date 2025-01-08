@@ -1,0 +1,30 @@
+body{
+    background-image: url(teglafal.jpg);
+    font-family: Arial, Verdana, sans-serif;
+    text-decoration-color: beige;
+    text
+    
+}
+
+article{
+    background-color: black;
+    
+}
+
+aside{
+    background-color: darkgray;
+    text-decoration-color: red;
+
+}
+
+
+header{
+    background-image: url(beer-new_401732638.jpg);
+    }
+
+footer{
+    background-color: gray;
+}
+*{box-sizing: border-box;
+
+}
